@@ -1,0 +1,2 @@
+# DayDream
+A Typecho Theme
